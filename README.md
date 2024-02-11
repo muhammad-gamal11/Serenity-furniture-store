@@ -2,7 +2,7 @@
 ##﻿# Serenity-furniture-store
 
 ### Description
-This is an e-commerce website built with vanilla JavaScript, HTML, and CSS. It allows users to browse through a variety of products, add items to their cart, and complete purchases securely.
+This is a furniture store website built with vanilla JavaScript, HTML, and CSS. It allows users to browse through a variety of products, add items to their cart, and complete purchases securely.
 
 
 ### Usage
